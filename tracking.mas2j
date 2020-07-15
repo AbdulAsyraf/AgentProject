@@ -1,0 +1,25 @@
+/*
+    tracking
+    ---------------------------
+
+    Jason Project File
+
+    This file defines the initial state of the MAS
+
+    Jason 
+    July 15, 2020 - 13:04:28
+*/
+
+MAS tracking {
+
+    infrastructure: Jade
+
+    environment: zaWarudo
+
+    agents:
+        hq;
+
+        mover #5;
+
+}
+
